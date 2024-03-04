@@ -1,5 +1,4 @@
 /* eslint-disable jsx-a11y/alt-text */
-import React from "react";
 import { Fade } from "react-reveal";
 import { useNavigate } from "react-router-dom";
 import { AiFillStar } from "react-icons/ai";

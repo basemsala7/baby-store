@@ -1,4 +1,3 @@
-import React from "react";
 import { BiSupport } from "react-icons/bi";
 import { AiOutlineDollarCircle } from "react-icons/ai";
 import { FaDolly } from "react-icons/fa";

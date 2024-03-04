@@ -1,4 +1,3 @@
-import React from "react";
 import {
   MdLocalPhone,
   MdLocationOn,
@@ -6,35 +5,24 @@ import {
 } from "react-icons/md";
 
 const Contact = () => {
-
   return (
     <div className="contact">
       <div className="left">
         <div>
           <label htmlFor="name"> Enter your name</label> <br></br>
           <br></br>
-          <input
-            type="text"
-            id="name"
-         
-          />
+          <input type="text" id="name" />
         </div>
         <div>
           <label htmlFor="mail"> Enter your E-mail</label> <br></br>
           <br></br>
-          <input
-            type="email"
-            id="mail"
-          />
+          <input type="email" id="mail" />
         </div>
 
         <div>
           <label htmlFor="sub">Subject</label> <br />
           <br></br>
-          <input
-            type="text"
-            id="sub"
-          />
+          <input type="text" id="sub" />
           <br></br>
         </div>
 

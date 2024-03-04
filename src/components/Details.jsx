@@ -1,7 +1,6 @@
 /* eslint-disable no-const-assign */
 /* eslint-disable no-unused-expressions */
 /* eslint-disable jsx-a11y/alt-text */
-import React from "react";
 import { useState } from "react";
 import { useParams } from "react-router-dom";
 import { useSelector, useDispatch } from "react-redux";

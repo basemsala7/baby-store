@@ -1,5 +1,3 @@
-import React from "react";
-
 const DemoMsg = () => {
   const demo = {
     display: " flex",

@@ -1,5 +1,4 @@
 /* eslint-disable jsx-a11y/alt-text */
-import React from "react";
 import { AiFillStar } from "react-icons/ai";
 import { BsStarHalf } from "react-icons/bs";
 import errorImage from "../aea4b09ff185e02c4046ff12c4f828f9.png";
