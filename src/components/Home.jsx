@@ -1,5 +1,4 @@
 /* eslint-disable jsx-a11y/alt-text */
-import { Fade } from "react-reveal";
 import { useNavigate } from "react-router-dom";
 import { AiFillStar } from "react-icons/ai";
 import { BsStarHalf } from "react-icons/bs";
@@ -48,9 +47,7 @@ const Home = () => {
   return (
     <div className="home">
       <div className="image">
-        <Fade left cascade>
-          <p>Discover our Arrivals!</p>
-        </Fade>
+        <p>Discover our Arrivals!</p>
       </div>
 
       <div className="welcome">
