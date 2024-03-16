@@ -131,10 +131,8 @@ const Home = () => {
 
       <div className="Bestcoll">
         <div className="Bestone">
-          <Fade left cascade>
-            <h1>Best Collections</h1>
-            <p>Selected Products From Famous Brands</p>
-          </Fade>
+          <h1>Best Collections</h1>
+          <p>Selected Products From Famous Brands</p>
         </div>
 
         <div className="Besttwo">
