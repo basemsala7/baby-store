@@ -196,10 +196,14 @@ li a:hover {
   background-image: url("shop23_home_banner6.jpg");
   width: 580px;
 }
-.one div {
+.one {
   position: relative;
+
+}
+.one div {
+  position: absolute;
   top: 32%;
-  left: 67%;
+  left: 60%;
 }
 .two div {
   position: relative;
